@@ -13,7 +13,7 @@ Epoch 1           |  Epoch 10
 :-------------------------:|:-------------------------:
 ![Epoch 1](./fake_mnist/sample_0.png)  |  ![Epoch 10](./fake_mnist/sample_9.png)
 
-Epoch  50           |  Epoch 100
+Epoch  50           |  Epoch 200
 :-------------------------:|:-------------------------:
 ![Epoch 50](./fake_mnist/sample_49.png)  |  ![Epoch 200](./fake_mnist/sample_199.png)
 
