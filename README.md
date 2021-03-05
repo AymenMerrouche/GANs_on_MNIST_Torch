@@ -15,13 +15,13 @@ Epoch 1           |  Epoch 10
 
 Epoch  50           |  Epoch 100
 :-------------------------:|:-------------------------:
-![Epoch 50](./fake_mnist/sample_49.png)  |  ![Epoch 100](./fake_mnist/sample_99.png)
+![Epoch 50](./fake_mnist/sample_49.png)  |  ![Epoch 200](./fake_mnist/sample_199.png)
 
 ## Discrimnator and Generator losses
 
 Generator           |  Discriminator
 :-------------------------:|:-------------------------:
-![loss of generator](./losses_mnist/g_loss.png)  |  ![loss of discriminator](./losses_figures/d_loss.png)
+![loss of generator](./losses_mnist/g_loss.png)  |  ![loss of discriminator](./losses_mnist/d_loss.png)
 
 ## Dicriminator's mean prediction on real and on generated data
 
